@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.10.3",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.8",
+    "@mui/styles": "^5.10.8",
+    "axios": "^1.1.2",
+    "formik": "^2.2.9",
+    "formik-mui": "5.0.0-alpha.0",
+    "formik-mui-x-date-pickers": "^0.0.1",
+    "js-cookie": "^3.0.1",
+    "mui-datatables": "^4.2.2",
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-mui-dropzone": "^4.0.6",
+    "react-query": "^3.39.2",
+    "react-swipeable-views": "^0.14.0",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "18.8.3",
